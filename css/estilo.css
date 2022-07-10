@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;    
+}
+
+body {
+    font-family: "Trebuchet", Helvetica, sans-serif;
+    padding: 0;    
+}
+
+#container {
+    width: 95%;
+    margin: 0 auto;
+}
+
+#cabecalho {
+    height: 250px;   
+    background: #fff url(../imagens/logo.jpg) no-repeat left top;
+    padding: 5px;
+}
